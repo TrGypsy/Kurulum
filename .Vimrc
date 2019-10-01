@@ -1,35 +1,30 @@
+
+"Genel Ayarlar--------
+
 syntax enable
-
-set background=dark
-colorscheme solarized
-
-
 set number	
 set linebreak	
 set showbreak=+++ 	
 set textwidth=100	
 set showmatch	
 set visualbell	
- 
 set hlsearch	
 set smartcase	
 set ignorecase	
 set incsearch	
- 
 set autoindent	
 set shiftwidth=4	
 set smartindent	
 set smarttab	
 set softtabstop=4	
- 
-
 set ruler	
- 
 set undolevels=1000	
 set backspace=indent,eol,start
+
  
  
 
+"Plug yukleme Yerı ------------------
 
 call plug#begin('~/.vim/plugged')
 Plug 'altercation/vim-colors-solarized'
@@ -58,6 +53,10 @@ map <F3> :NERDTreeToggle<CR>
 nmap ,t :NERDTreeFind<CR>
 " don;t show these file types
 let NERDTreeIgnore = ['\.pyc$', '\.pyo$']
+nnoremap <C-DOWN> <C-W><C-J>
+nnoremap <C-UP> <C-W><C-K>
+nnoremap <C-RIGHT> <C-W><C-L>
+nnoremap <C-LEFT> <C-W><C-H>
 
 " NeoComplCache ------------------------------
 
