@@ -45,6 +45,13 @@ Plug 'python-mode/python-mode', { 'branch': 'develop' }
 " Initialize plugin system
 call plug#end()
 
+
+"Tema İcin -------------------------------
+
+set background=dark
+colorscheme solarized
+
+
 " NERDTree ----------------------------- 
 
 " toggle nerdtree display
