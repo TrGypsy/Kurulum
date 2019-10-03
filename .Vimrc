@@ -5,7 +5,8 @@ syntax enable
 set number	
 set linebreak	
 set showbreak=+++ 	
-set textwidth=100	
+set textwidth=161
+set colorcolumn=161
 set showmatch	
 set visualbell	
 set hlsearch	
@@ -20,9 +21,6 @@ set softtabstop=4
 set ruler	
 set undolevels=1000	
 set backspace=indent,eol,start
-
- 
- 
 
 "Plug yukleme Yerı ------------------
 
