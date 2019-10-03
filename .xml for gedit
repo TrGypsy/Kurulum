@@ -81,7 +81,7 @@
   <style name="def:doc-comment"		foreground="gray"/>
   <style name="def:doc-comment-element" italic="true"/>
   <style name="def:error"		foreground="dark0" background="bright_red" bold="true"/>
-  <style name="def:floating-point"	foreground="bright_purple"/>
+  <style name="def:floating-point"	foreground="#ff8bff"/>
   <style name="def:function"		foreground="bright_green"/>
   <style name="def:identifier"		foreground="bright_blue"/>     
   <style name="def:keyword"		foreground="#ff9d00"/>                  	 <!-- while for olan kısmı degıstırıyor -->
@@ -107,5 +107,5 @@
   <style name="python:decorator" foreground="#50fa7b"/>
   <style name="python:class-name" foreground="#50fa7b"/>
   <style name="python:builtin-constant" foreground="#bd93f9"/>
-  <style name="python:special-variable" foreground="#8be9fd"/>
+  <style name="python:special-variable" foreground="#c8ff14"/>     <!--self  olan kısmı degıstırıyor -->
 </style-scheme>
