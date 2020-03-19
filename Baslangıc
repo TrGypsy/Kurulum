@@ -22,3 +22,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 sudo apt-get install git    #.Vimrc dekı plugları yuklemek ıcın gıt yuklenmeli
 
 ----------------------------
+
+
+
+gsettings set org.gnome.desktop.interface clock-show-date true
+
