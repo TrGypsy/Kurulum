@@ -24,6 +24,6 @@ sudo apt-get install git    #.Vimrc dekı plugları yuklemek ıcın gıt yuklenm
 ----------------------------
 
 
-
+# Traih ve gunu gostermek ıcın kod
 gsettings set org.gnome.desktop.interface clock-show-date true
 
