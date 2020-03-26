@@ -25,7 +25,9 @@ sudo apt-get install curl
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-sudo apt-get install git    #.Vimrc dekı plugları yuklemek ıcın gıt yuklenmeli
+# Vimrc dekı plugları yuklemek ıcın gıt yuklenmeli
+
+sudo apt-get install git
 
 ----------------------------
 
