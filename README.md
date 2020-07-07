@@ -38,8 +38,11 @@ gsettings set org.gnome.desktop.interface clock-show-date true
 ----------------------------
 
 sudo apt install python3-pip
+
 sudo pip3 install virtualenv
+
 sudo apt-get install python3-git
+
 sudo pip3 install django
 
 
