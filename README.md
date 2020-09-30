@@ -2,9 +2,9 @@
 
 # Python3.6 default yapmak ıcın gereklı kod
 
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 8
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 2
 
-sudo update-alternatives  --set python /usr/bin/python3.6
+sudo update-alternatives  --set python /usr/bin/python3.8
 
 ---------------------------------
 
